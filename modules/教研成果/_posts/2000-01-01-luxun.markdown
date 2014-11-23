@@ -38,6 +38,7 @@ published: true
     知识要点：现代小说开创了独特的题材与叙事模式，散文诗和杂文属于文体创新，写作了中国第一部小说史  
     教学重点：鲁迅对中国文学的独特贡献  
     教学难点：怎样正确估价鲁迅的作用与价值  
+
 ### （二）教学基本要求：
 1．了解鲁迅创作与中外古今文学与文化的联系，但是更要懂得他的创新点与创新精神，熟悉他对现当代文学持久影响。  
 2．了解鲁迅在现代文坛所参与的论争及意义，能对其中的现实的、理论的背景加以辨析，掌握在复杂历史与现实的论争中客观辩证的分析能力。
@@ -52,93 +53,44 @@ published: true
     知识要点：新编策略与文体越界；戏拟与隐喻思维
 * 第四节   鲁迅小说的艺术特点  
     知识要点：诗化叙事；主体介入；形式试验广泛
-###（二）教学基本要求：
+### （二）教学基本要求：
 1．阅读一定量的小说，了解鲁迅小说的划时代意义，熟悉其思想内容和现实主义兼象征主义的创作方法。  
 2．了解鲁迅小说的叙事模式和灵活多样的叙事方法，并学会运用这些知识去分析鲁迅的作品。
 
-第四章 鲁迅的散文创作（共8学时）
-（一）教学内容：
-第一节   《野草》
+## 第四章 鲁迅的散文创作（共8学时）
+### （一）教学内容：
+* 第一节   《野草》  
 知识要点：独语体；反抗绝望的哲学
-第二节   《朝花夕拾》
+* 第二节   《朝花夕拾》  
 知识要点：自传性；絮语型
-第三节           鲁迅散文的艺术特点 
-知识要点：象征与写实；独语体与闲话风；哲学与历史                                                                                         （二）教学基本要求：
-1.了解作品的写作背景，增进对鲁迅的生活与内心世界的认知，熟悉其性情与思维方式。
+* 第三节   鲁迅散文的艺术特点   
+知识要点：象征与写实；独语体与闲话风；哲学与历史                                                                                 
+### （二）教学基本要求：
+1.了解作品的写作背景，增进对鲁迅的生活与内心世界的认知，熟悉其性情与思维方式。  
 2.了解鲁迅散文的文体特征，能够运用相关知识分析类似作品。
-第五章 鲁迅的杂文创作（共8学时）
-（一）教学内容：
-第一节   鲁迅杂文创作概述
+
+## 第五章 鲁迅的杂文创作（共8学时）
+### （一）教学内容：
+* 第一节   鲁迅杂文创作概述  
 知识要点：各种作品的基本情况；时代与个人生活的复合影响
-第二节   鲁迅杂文的思想内容
+* 第二节   鲁迅杂文的思想内容  
 知识要点：时代百科全书；文明批评；社会批评
-第三节   鲁迅杂文的艺术特色
+* 第三节   鲁迅杂文的艺术特色  
 知识要点：否定性；个与类的统一；主观性
-（二）教学基本要求：
-1．阅读一定量的杂文，了解鲁迅杂文的时代意义，熟悉其思想内容与艺术特色。
-2．了解鲁迅杂文的思维方法，并学会运用这些思想方法去发现和解决问题。
-第六章 鲁迅的学术著作与文学翻译（共4学时）
-（一）教学内容：
-第一节   鲁迅的学术著作
+
+### （二）教学基本要求：
+1．阅读一定量的杂文，了解鲁迅杂文的时代意义，熟悉其思想内容与艺术特色。  
+2．了解鲁迅杂文的思维方法，并学会运用这些思想方法去发现和解决问题
+
+## 第六章 鲁迅的学术著作与文学翻译（共4学时）
+### （一）教学内容：
+* 第一节   鲁迅的学术著作  
 知识要点：《中国小说史略》；《汉文学史纲要》；清儒家法；文学感觉；世态人心
-第二节   鲁迅的翻译文学
+* 第二节   鲁迅的翻译文学  
 知识要点：文学翻译的功利观；直译；复译
-（二）教学基本要求：
-1．了解鲁迅学术和翻译的基本情况，结合历史与现实条件深入理解其学术品格、创新价值。
+
+### （二）教学基本要求：
+1．了解鲁迅学术和翻译的基本情况，结合历史与现实条件深入理解其学术品格、创新价值。  
 2．阅读一些鲁迅的译作，了解鲁迅的文学趣味，探寻他的文学翻译与创作之间的关系，更深入地体会翻译文学对现代文学的建构意义。
 
 
-
-But open online courses think about content a bit differently. 
-Since your learners will be encouraged to find their own resources and interact with others, knowledge emerges organically. Here are a few ways that you can think about developing content in your course: 
-
-![content slide.001.jpg]({{site.baseurl}}/img/content slide/content%20slide.001.jpg)
-
-### Peers co-create the content. 
-
-In the video you looked at in the last module, Jim Groom mentions that content is the "residue" of interactions in the course. What this means is that, when activities are open-ended and creative, the social interactions around them build out much of what we think of as "content" for an open course. 
-
-In another P2PU course, [Rhizomatic Learning](https://p2pu.org/en/courses/882/rhizomatic-learning-the-community-is-the-curriculum/), Dave Cormier asked learners to participate in the design of the course--the community was going to decide what to learn together. After Dave "officially" stopped running the course in week 6, the course continued to evolve without him--proof of success if ever there was any. 
-
-### Use openly-licensed content that already exists.
-
-The Open Education movement and the use of Creative Commons licenses for educational content have given rise to a wealth of open educational resources. If you'd like to pull together a few foundational resources, [MIT OpenCourseWare](http://ocw.mit.edu/index.htm) and the [Saylor Foundation](http://www.saylor.org/) are both great sources for OERs you can use in your course. Don't forget to attribute correctly.
-
-We used openly-licensed content for our "[A Gentle Introduction to Python](http://reports.p2pu.org/mooc-maker/)" course, and grouped learners together around the chapters and tutorials in the main text we used. The interaction happened around the content, and it was super-nifty. 
-
-### Learners can create tutorials for other learners.
-
-Seasoned educators know that when a student teaches another student, their understanding deepens. That's peer learning in a nutshell. You might want to prompt learners to create a ["Teaching Kit"](http://discourse.webmakerprototypes.org/t/activity-1-create-a-teaching-kit/332) to accompany their project. For our [Mozilla Webmaker course](https://training.webmakerprototypes.org/en/), learners created tutorials to help someone else complete the project in the future. 
-
-These teaching kits/tutorials ask learners to reflect on their project and model a ["reflective practice"](http://en.wikipedia.org/wiki/Reflective_practice) (mmmmm, tasty self-assessment). At the same time, learners are creating their own OERs to contributione to the wider open learning landscape. 
-
-## Give Your Content a Vibe
-
-As we mentioned earlier in this course, we create playful learning experiences that last. The wittier, chattier and more mysterious the better. We always try to strike a balance between playful language and internationalization (what's funny in Australia might not be in Germany) but concepts that make us laugh are concepts that stick. 
-
-The Open University's P2PU course on ["Open Research"] (https://p2pu.org/he/courses/2377/open-research/) decided to deliver all of their examples through a character named "Mr. O'Pen." 
-
-
-
-By setting a playful tone, you are modeling how easy it can be to engage the community and making your little corner of the internet a very welcoming one. 
-
-
-## Course Length
-
-Let's re-think "length." Because ideally what you are building is an online community--one that is ongoing, self-sustaining, and engaged. And in a community, you're never really "done". When is the last time you were done being a musician? Or a teacher? Or a writer? 
-
-When you look at your community longitudinally, it's natural that folks are going to participate in different ways. Our fellow community-builder [Alex Hillman](http://dangerouslyawesome.com/) subscribes to the 80/20 rule: your community will break down into gradations between somewhat active and most active participants:
-
-![]({{site.baseurl}}/img/content-2.jpg)
-
-*Participation is a continuum of activity, and our data at P2PU bears that out.* When looking at one of our recent P2PU courses, folks reported engaging on a pleathora of ways:
-
-![]({{site.baseurl}}/img/content-3.jpg)
-
-So instead of thinking about beginning and finishing, you might think about the course you are developing as *an onramp to your ongoing community* that lives on P2PU.org or somewhere else. You might run Arduino 101 every 8 weeks, but the Arduino G+ group is always there to help, and that way the expert folks can help newbies. 
-
-Some relevant data as to how to design your onborading: recent research by [Martin Weller](http://nogoodreason.typepad.co.uk/no_good_reason/2013/12/design-responses-to-mooc-completion-rates.html) and [Katy Jordan](http://www.katyjordan.com/MOOCproject.html) indicate that, no matter what the discipline, there seems to be a 4-week long "sweet spot" in active participation. 
-
-![]({{site.baseurl}}/img/content-4.png)
-
-So the first 30 days of your course make all the difference. We'd recommend a four-week onboarding course that runs regularly as an introduction to your learning community.
