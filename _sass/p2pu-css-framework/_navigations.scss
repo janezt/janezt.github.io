@@ -34,7 +34,7 @@ $navbar-light: $gray-snow;
 .nav > li > a {
 	transition: all 0.3s linear;
 	&:hover, &:focus {
-		background-color: $gray;
+		background-color: $blue-light;
 		color: $white;
 	}
 }
