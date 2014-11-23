@@ -1,5 +1,6 @@
 ---
 title: How will this course work?
+published: false
 ---
 
 ## How will this course work?
