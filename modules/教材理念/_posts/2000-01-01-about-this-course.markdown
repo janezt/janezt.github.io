@@ -1,26 +1,8 @@
 ---
-title: How will this course work?
+title: 课程性质
 ---
 
-## How will this course work?
+![Image of course workflow](http://i.k1982.com/pic_img/case/477634_1261054669lPPF.jpg)
 
-![Image of course workflow]({{site.baseurl}}/img/process.png)
-
-During the next 4 weeks we will discuss the 4 different modules in this course - **community**, **learning**, **content** and **feedback**. Every week there will be some preparation, hands-on projects and a discussion for feedback and sharing to help you build your course!
-
-## How do I sign up and take this course?
-
-Normally this is where we tell you to fill in a form and wait for us, but we're not going to do that. You can 'sign up' to this course by **taking your course out of the box** [here]({{site.baseurl}}/modules/start/the-box/) and start learning.
-
-{% comment %}
-## You promised me my own course! Where is it?
-
-It's all in the box, promise! But you need to unpack it first :) Go on, take it out of [the box]({{site.baseurl}}/modules/start/the-box/)!
-{% endcomment %}
-
-![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
-
-Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
-
-
+语文的课程性质，是一门以人文素质教育为核心的，融语文教育工具性、人文性、思想性为一体的基础课程。开设大语文的目的，固然要巩固和深化学生通用祖国语言文字的能力，但更重要的是要通过传承祖国优秀文化的精华，更好地塑造学生的健康人格、高尚情趣、宽广情怀，更好地肩负为祖国为人类服务的重担。因此，从长远看，大语文的根本任务，还承担着改造国民素质，重铸人文精神的重任。我们只有超越实用主义的局限，从精神的拓展，从人的发展的高度去把握，才能领会大语文教育所包蕴的丰富的内涵。
 
