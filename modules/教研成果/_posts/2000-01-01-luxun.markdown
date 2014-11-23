@@ -3,11 +3,16 @@ title: 鲁迅专题研究
 published: true
 ---
 
-# Content: OER, Learning Kits and Course Length
-
-Traditionally, online courses followed this very top-down, regimented formula:
+# 鲁迅不仅是伟大的文学家，而且是伟大的思想家和革命家。
 
 ![](http://klcb.k618.cn/dusb/zjmdm/201212/W020121227445431900733.jpg)
+
+    “鲁迅专题研究”是一门研究鲁迅生平、思想和创作的作家研究科目。鲁迅是现代中国文化革命的主将，他的文学活动和著作涉及面极广，涵盖了哲学、伦理学、美学文学等多学科领域，对中华民族新文化和现代文学发展作出了巨大贡献，留下了十分丰富的思想文化遗产。学习鲁迅创作，继承鲁迅精神，创造民族新文化，具有十分重要的意义。
+
+    《鲁迅专题研究》是高等学校中文系的专业选修课，它是在学习了《中国现代文学史》、《中国现代文学作品选读》等基础课后所设置的一门提高课。由于本课程是专题性的又是综合性的，所以处于现代文学有直接关系外，与文学理论、美学、古代文学、外国文学等都有密切联系。
+
+    本课程内容包括鲁迅研究历史的介绍、鲁迅小说、杂文、散文诗《野草》等的理论探讨、鲁迅美学思想以及鲁迅与中国古代文学、外国文学的关系的论述。任务是要对鲁迅作综合性的专题学习和探讨，以便于比较系统、比较全面、比较深入地理解鲁迅，即从比较宏观的角度来把握鲁迅的思想、作品和艺术创造活动。希望学生在学习时要善于运用过去学过的所有课程的有关知识，加深对鲁迅的理解，并体会毛泽东同志关于“鲁迅的方向，就是中华民族新文化的方向”的论述。
+
 
 But open online courses think about content a bit differently. 
 Since your learners will be encouraged to find their own resources and interact with others, knowledge emerges organically. Here are a few ways that you can think about developing content in your course: 
