@@ -1,6 +1,6 @@
 ---
 title: Resources
-published: true
+published: false
 ---
 
 # Other People’s Good Ideas
