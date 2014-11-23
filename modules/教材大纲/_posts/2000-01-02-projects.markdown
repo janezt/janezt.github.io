@@ -1,6 +1,6 @@
 ---
 title: Projects
-published: true
+published: false 
 ---
 
 ## Find and Invite Folks to be Your 'First 10'
