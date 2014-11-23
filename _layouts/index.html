@@ -4,11 +4,13 @@ layout: base
 
 <!-- Banner -->
 <div class="jumbotron">
-	<div class="container text-left">
+	<div class="container text-center">
 		{% if site.jumbotron_image %}
 			<img src="{{ site.baseurl }}/img/{{ site.jumbotron_image }}"
 			     alt="{{ site.title }} Icon" />
 		{% endif %}
+	</div>
+	<div class="container text-left">
 		<header>
 			<h1>{{ site.data.course.description }}</h1>
 		</header>
