@@ -7,9 +7,9 @@ published: true
 
 ![Image of community](http://www.juev.org/content/images/2014/Sep/sun.jpg)
 
-#  暑                  秋                    寒                     春
+|| 暑  ||  秋  ||   寒 ||    春
 
-# 初一
+# 初一  古代神话、世说新语  现代文专项、写作  || 文言文、名著阅读
 * 
 
 # 初二
