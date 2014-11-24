@@ -1,6 +1,5 @@
 ---
 title: “感恩类”作文写作
-excerpt: "Find out why community is important in learning something new, what makes robust communities tick, and start co-designing your course."
 published: true
 ---
 
