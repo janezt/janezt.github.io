@@ -2,7 +2,7 @@
 title: “课外书，课内读”名著阅读课
 excerpt: "Find out why community is important in learning something new, what makes robust communities tick, and start co-designing your course."
 published: true
----
+--- 
 
 ![Image of book](http://pica.nipic.com/2007-12-08/20071288307318_2.jpg)
 
