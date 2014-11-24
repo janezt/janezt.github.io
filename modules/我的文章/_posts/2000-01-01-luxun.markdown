@@ -1,6 +1,6 @@
 ---
 title: 鲁迅专题研究
-published: true
+published: false 
 ---
 
 # 鲁迅不仅是伟大的文学家，而且是伟大的思想家和革命家。
